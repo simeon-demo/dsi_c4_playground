@@ -1,0 +1,10 @@
+x = print('Hello world!')
+
+y = 'nice' + 'matter'
+
+print(y)
+
+while True:
+    print('Humans are intereeeeesting!')
+    
+num = input('Enter a number:')
