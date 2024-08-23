@@ -17,7 +17,7 @@ Hello, this is also a test.
 
 hello :)
 
-Test. From Carlos GD
+Test. From Simeon.
 
 edited from JP
 
