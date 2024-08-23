@@ -1,0 +1,3 @@
+This is ganghuo's input for practicing git commands.
+
+happy coding!
