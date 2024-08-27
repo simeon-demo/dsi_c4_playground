@@ -35,3 +35,4 @@ This is Namreen
 HELLO test 3
 
 Khaled was here. Best regards
+Added this text to use git pull command
